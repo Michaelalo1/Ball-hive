@@ -1,0 +1,23 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;;
+    margin-left: auto;
+    margin-right: 550px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.imageUpload-progress {
+    width: 100%;
+}
+
+.upload-button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
